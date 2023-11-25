@@ -5,7 +5,8 @@
       "profileName": "Bappy Modok",
       "relesDate": "Mar 14 (4 Days ago)",
       "timeSpen": 10,
-      "title": "How to get your first job as a self-taught programmer"
+      "title": "How to get your first job as a self-taught programmer",
+      "id":1
     },
     {
       "coverImg": "https://i.ibb.co/Rh6G0y2/html-css-collage-concept-with-person.jpg",
@@ -13,7 +14,8 @@
       "profileName": "Bappy Modok",
       "relesDate": "Mar 14 (4 Days ago)",
       "timeSpen": 15,
-      "title": "How to get your first job as a self-taught programmer"
+      "title": "How to get your first job as a self-taught programmer",
+      "id":2
     },
     {
       "coverImg": "https://i.ibb.co/PNDbTtn/rear-view-programmer-working-all-night-long.jpg",
@@ -21,7 +23,8 @@
       "profileName": "Bappy Modok",
       "relesDate": "Mar 14 (4 Days ago)",
       "timeSpen": 20,
-      "title": "How to get your first job as a self-taught programmer"
+      "title": "How to get your first job as a self-taught programmer",
+      "id":3
     },
     {
       "coverImg": "https://i.ibb.co/djq1YTq/professional-esport-gamer-playing-game-tournament.jpg",
@@ -29,6 +32,7 @@
       "profileName": "Bappy Modok",
       "relesDate": "Mar 14 (4 Days ago)",
       "timeSpen": 25,
-      "title": "How to get your first job as a self-taught programmer"
+      "title": "How to get your first job as a self-taught programmer",
+      "id":4
     }
   ]
